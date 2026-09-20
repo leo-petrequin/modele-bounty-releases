@@ -1,0 +1,23 @@
+{
+  "name": "Modèle Bounty",
+  "short_name": "Modèle Bounty",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#030711",
+  "theme_color": "#030711",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icone-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icone-256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
